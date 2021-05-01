@@ -1,4 +1,4 @@
-# Maltese Archipeligo Website
+![Website Logo](https://github.com/ragelmalti/Maltese-Archipeligo-Website/blob/master/images/logo.svg)
 This is the github repository for the Maltese Archipeligo Information Website.
 
 A spiritual successor to the now defunct aboutmalta.com, this website was made to showcase information on the Maltesse Archipeligo, including it's History, Language and Culture, in a singular place. 
