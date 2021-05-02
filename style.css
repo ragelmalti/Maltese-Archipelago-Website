@@ -1,0 +1,20 @@
+body {
+	/* font-size: 22px; */
+	background-color:#eadbcb;
+	background-image:url('images/spirals.gif');
+}
+header * {
+	padding:0px;
+	margin:0px;
+}
+main {
+	padding:5px;
+	background-color:#ffffff;
+	max-width: 700px; 
+	margin:auto;
+
+}
+a {
+	color: #cf142bff;
+}
+
