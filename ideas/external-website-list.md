@@ -24,6 +24,7 @@ This page contains a list of websites on Malta, in no particular order
 - https://phoenicia.org/quinta.html
 - https://mlrs.research.um.edu.mt/resources/gabra/
 - https://dictionaryofsydney.org/entry/maltese
+- https://spelling.mt/index.html
 
 # Youtube Channels
 - https://www.youtube.com/c/TomaszAndrzejNidecki/videos
