@@ -12,7 +12,7 @@ This page contains a list of websites on Malta, in no particular order
 - https://simonmercieca.com/
 - http://www.charlesdanielsaliba.com/index.html
 - http://www.maltahistory.eu/
-- http://www.gdaymaltaussiesshow.com/
+- ~~http://www.gdaymaltaussiesshow.com/~~
 - https://victorianweb.org/history/empire/malta/
 - http://www.diskimaltin.com/
 - https://vassallohistory.wordpress.com/
@@ -23,7 +23,7 @@ This page contains a list of websites on Malta, in no particular order
 - https://web.archive.org/web/20111031154610fw_/http://malta.lebaneseclub.org/index.htm
 - https://phoenicia.org/quinta.html
 - https://mlrs.research.um.edu.mt/resources/gabra/
-- https://dictionaryofsydney.org/entry/maltese
+- ~~https://dictionaryofsydney.org/entry/maltese~~
 - https://spelling.mt/index.html
 
 # Youtube Channels
