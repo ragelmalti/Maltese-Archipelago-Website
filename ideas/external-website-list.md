@@ -27,7 +27,7 @@ This page contains a list of websites on Malta, in no particular order
 - ~~https://spelling.mt/index.html~~
 
 # Youtube Channels
-- https://www.youtube.com/c/TomaszAndrzejNidecki/videos
+- ~~https://www.youtube.com/c/TomaszAndrzejNidecki/videos~~
 - https://www.youtube.com/channel/UCV0tLZY1OgunMDZ8whXZZVw
-- https://www.youtube.com/user/TheHuSkY1984/videos
+- ~~https://www.youtube.com/user/TheHuSkY1984/videos~~
 - https://www.youtube.com/user/MrTarros123
