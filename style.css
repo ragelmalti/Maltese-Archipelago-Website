@@ -24,7 +24,7 @@ main {
 
 }
 a {
-	/* Peroperties of every hyperlink found on the website. */
+	/* Properties of every hyperlink found on the website. */
 	color: #cf142bff;
 }
 
@@ -35,4 +35,10 @@ nav {
 img.logo {
 	height:auto;
 	width:650px;
+}
+
+span.comment {
+	/* Formating for comments in brackets, added between text in the articles.*/
+	color: grey;
+	font-style: italic;
 }
