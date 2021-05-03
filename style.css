@@ -4,8 +4,17 @@ body {
 	background-image:url('images/spirals.gif');
 }
 header * {
+	/* Removes space between the logo, and h1, so it looks seamless.*/
 	padding:0px;
 	margin:0px;
+}
+
+h1 {
+	/*Properties for the heading at the top of every web page.*/
+	text-align:center;
+	font-family:'Brush Script MT',cursive;
+	background-color:#cf142bff;
+	color:#ffffff;
 }
 main {
 	padding:5px;
@@ -15,6 +24,15 @@ main {
 
 }
 a {
+	/* Peroperties of every hyperlink found on the website. */
 	color: #cf142bff;
 }
 
+nav {
+	text-align:center;
+}
+
+img.logo {
+	height:auto;
+	width:650px;
+}
