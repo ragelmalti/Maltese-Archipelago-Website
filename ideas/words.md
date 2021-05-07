@@ -3,40 +3,56 @@ This file is a list of common words and phrases, that would be useful to know in
 # Nouns
 ## Numbers
 ## Days and Months
-- Monday
-- Tuesday
-- Wednesday
-- Thursday
-- Friday
-- Satuday
-- Sunday
+- Monday -> it-Tnejn
+- Tuesday -> it-Tileta
+- Wednesday -> l-Erbgħa
+- Thursday -> il-Ħamis
+- Friday -> il-Ġimgħa
+- Satuday -> is-Sibt
+- Sunday -> il-Ħadd
 ----
-- Janurary
-- Feburary
-- March
-- April
-- May
-- June
-- July
-- August
-- September
-- October
-- November
-- December
+- Janurary -> Jannar
+- Feburary -> Frar
+- March -> Marzu
+- April -> April
+- May -> Mejju
+- June -> Ġunju 
+- July -> Lulju
+- August -> Awwissu
+- September -> Settembru
+- October -> Ottubru
+- November -> Novembru
+- December -> Diċembru
+## Names 
+- God -> Alla
+- Devil -> xitan
 ## Objects
-- Meat
+- House -> dar
+- Meat -> 
+- Vegetables -> ħaxix
+- Flower -> fijura
+- Ball -> ballun
 - Sock
-- Shoe
+- Shoe -> 
 - Shirt
-- Head
+## Body Parts
+- Head -> ras
+- Heart -> qalb
 ## Animals
-- Cow
-- Chicken
-- Bird
-- Rabbit
-- Pig
-- Dog
-- Cat
+- Cow -> baqar
+- Chicken -> tiġieġ
+- Bird -> għasfur
+- Bug -> baqqa
+- Rabbit -> fennek
+- Ladybug -> nannakola
+- Pig -> ħanżir 
+- Dog -> kelb
+- Cat -> qattus
+# Adjectives
+- Good -> tajjeb
+- Cute -> gustuż
+- Big ->
+- Small -> 
 # Verbs
 # Phrases
-- 'How are you?'
+- 'How are you?' -> 'Kif int?'
