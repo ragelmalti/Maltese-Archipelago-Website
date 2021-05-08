@@ -1,7 +1,8 @@
 body {
 	/* font-size: 22px; */
 	background-color:#eadbcb;
-	background-image:url('images/spirals.gif');
+	background-image:url('images/spiral.svg');
+	background-size: 23% auto;
 }
 header * {
 	/* Removes space between the logo, and h1, so it looks seamless.*/
@@ -12,7 +13,7 @@ header * {
 h1 {
 	/*Properties for the heading at the top of every web page.*/
 	text-align:center;
-	font-family:'Brush Script MT',cursive;
+	font-family:cursive;
 	background-color:#cf142bff;
 	color:#ffffff;
 }
