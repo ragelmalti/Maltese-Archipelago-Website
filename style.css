@@ -36,6 +36,10 @@ img.logo {
 	height:auto;
 	width:650px;
 }
+img.button {
+	margin-left:15px;
+	width:220px;
+}
 
 span.comment {
 	/* Formating for comments in brackets, added between text in the articles.*/
