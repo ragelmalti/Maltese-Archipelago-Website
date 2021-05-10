@@ -1,3 +1,8 @@
+@font-face {
+	font-family:Z003;
+	src:url(Z003-MediumItalic.ttf);
+}
+
 body {
 	/* font-size: 22px; */
 	background-color:#eadbcb;
@@ -12,7 +17,8 @@ header * {
 h1 {
 	/*Properties for the heading at the top of every web page.*/
 	text-align:center;
-	font-family:cursive;
+	font-family:Z003;
+	font-size:38px;
 	background-color:#cf142bff;
 	color:#ffffff;
 }
