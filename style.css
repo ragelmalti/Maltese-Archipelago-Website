@@ -20,7 +20,7 @@ h1 {
 	text-align:center;
 	font-family:Z003;
 	font-size:38px;
-	background-color:#cf142bff;
+	background-color:#cf142b;
 	color:#ffffff;
 }
 main {
@@ -32,7 +32,7 @@ main {
 }
 a {
 	/* Properties of every hyperlink found on the website. */
-	color: #cf142bff;
+	color: #cf142b;
 }
 
 nav {
