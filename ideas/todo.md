@@ -1,0 +1,3 @@
+- Change title font.
+- Investigate alternative body fonts.
+- Responsive web design, looks good on mobile.
