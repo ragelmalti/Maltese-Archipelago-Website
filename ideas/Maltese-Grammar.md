@@ -5,68 +5,68 @@
 
 
 The letters in Maltese are as follows with their IPA and a description:
-Aa	/a/,/ɐ/,/æ/
-Bb	/b/
-Ċċ	/t͡ʃ/
-Essentially the English CH sound
+- **Aa**	/a/,/ɐ/,/æ/
+- **Bb**	/b/
+- **Ċċ**	/t͡ʃ/
+- Essentially the English CH sound
 
-Dd	/d/
-Ee	/ɨ/,/e/,/ɛ/
-Ff	/f/
-Ġġ	/d͡ʒ/
-Pronounced like English J in "Jew"
-	
-Gg	/ɡ/
-Essentially the English hard G sound in words like Ground and Girl, but not like German and Gene
-	
-GĦ	/ˤː/
-"Long pharyngealization", which means slightly restricting back of throat
-	
-Hh	--
-Simply not pronounced
-	
-Ħħ	/h/,/ħ/
-Ii	/i/,/ɪ/
-IEie	/ɪ/,/ɛ/,/ɨː/
-Jj	/j/
-Pronounced like English Y, English J is pronounced as Ġ
+- **Dd**	/d/
+- **Ee**	/ɨ/,/e/,/ɛ/
+- **Ff**	/f/
+- **Ġġ**	/d͡ʒ/
+- Pronounced like English J in "Jew"
 
-Kk	/k/
-Ll	/l/
-Mm	/m/
-Nn	/n/
-Oo	/o/,/ɔ/
-Pp	/p/
-Qq	/ʔ/
+- **Gg**	/ɡ/
+- Essentially the English hard G sound in words like Ground and Girl, but not like German and Gene
+
+- **GĦ**	/ˤː/
+- "Long pharyngealization", which means slightly restricting back of throat
+
+- **Hh**	--
+- Simply not pronounced
+
+- **Ħħ**	/h/,/ħ/
+- **Ii**	/i/,/ɪ/
+- **IEie**	/ɪ/,/ɛ/,/ɨː/
+- **Jj**	/j/
+- Pronounced like English Y, English J is pronounced as Ġ
+
+- **Kk**	/k/
+- **Ll**	/l/
+- **Mm**	/m/
+- **Nn**	/n/
+- **Oo**	/o/,/ɔ/
+- **Pp**	/p/
+- **Qq**	/ʔ/
 "Glottal stop", Which means tempoary closing the back of the throat
 
-Rr	/r/
-Ss	/s/
-Tt	/t/
-Uu	/u/,/ʊ/
-Vv	/v/
-Ww	/w/
-Xx	/ʃ/, /ʒ/
-Pronounced like SH in "Shell", not as English X
-	
-Żż	/z/	
-Zz	/t͡s/, /d͡z/
-Pronounced like TS in "Tsunami"
+- **Rr**	/r/
+- **Ss**	/s/
+- **Tt**	/t/
+- **Uu**	/u/,/ʊ/
+- **Vv**	/v/
+- **Ww**	/w/
+- **Xx**	/ʃ/, /ʒ/
+- Pronounced like SH in "Shell", not as English X
+
+- **Żż**	/z/
+- **Zz**	/t͡s/, /d͡z/
+- Pronounced like TS in "Tsunami"
 
 ## Diphthongs
 EXAMPLES TAKEN FROM TEACH YOURSELF MALTESE & LEARN MALTESE WHY NOT
 
-'aw'	'ow' from cow, bow, how	
-'aj'	'igh' from high, right, fight
-'ew'	A combination of a short e and w	E.g. Mewt - Death
-'ej'	'ay' as in may, lay, day
-'ij'	A combination of i and a lengthened y	E.g. hija - iyya
-'iw' 	A combination of short i and w		E.g. liwja - a bend
-'għ+i'	Same pronunciation as 'ew'
-'għ+u'	Same pronunciation as 'aw'
-'għ+h'	Pronunced as ħħ				E.g. tagħha - taħħa
+- 'aj'	'igh' from high, right, fight
+- 'aw'	'ow' from cow, bow, how
+- 'ew'	A combination of a short e and w	E.g. Mewt - Death
+- 'ej'	'ay' as in may, lay, day
+- 'ij'	A combination of i and a lengthened y	E.g. hija - iyya
+- 'għ+i'	Same pronunciation as 'ew'
+- 'iw' 	A combination of short i and w		E.g. liwja - a bend
+- 'għ+u'	Same pronunciation as 'aw'
+- 'għ+h'	Pronunced as ħħ				E.g. tagħha - taħħa
 
-## Origin in Abjads
+## Closer look at Maltese script
 
 
 Interestingly, Maltese scripting has gone through various phases and used to include these letters:
@@ -77,30 +77,30 @@ Identical to Ċ, is a cyrillic letter used by slavic languages
 Identical to X, looks similar to cyrillic Ш, but also Arabic ش or moreso س, which leads us to another interesting observation
 
 Here are all Maltese consonants with their respective Arabic counterpart (vowels use variations of Alef):
-Bb	ب
-Ċċ	چ (Not standard)
-Dd	د
-Ff	ف
-Ġġ	ج
-Gg	ج (Egyptian Arabic)
-GĦ	غ
-Hh	ه
-Ħħ	ح
-Jj	ي
-Kk	ﻙ
-Ll	ل
-Mm	م
-Nn	ن
-Pp	پ (Not standard)
-Qq	ع
-Rr	ر
-Ss	س
-Tt	ت
-Vv	ڤ (Not standard)
-Ww	و
-Xx	ش
-Żż	ز	
-Zz	ﻙ (Najdi Arabic)
+- Bb	ب
+- Ċċ	چ (Not standard)
+- Dd	د
+- Ff	ف
+- Gg	ج (Egyptian Arabic)
+- Ġġ	ج
+- GĦ	غ
+- Ħħ	ح
+- Hh	ه
+- Jj	ي
+- Kk	ﻙ
+- Ll	ل
+- Nn	ن
+- Mm	م
+- Pp	پ (Not standard)
+- Rr	ر
+- Qq	ع
+- Ss	س
+- Tt	ت
+- Vv	ڤ (Not standard)
+- Xx	ش
+- Ww	و
+- Zz	ﻙ (Najdi Arabic)
+- Żż	ز
 
 This makes Maltese one of the easiest European languages to write using Arabic script, despite the Italian influence which forces for non standard Arabic characters to be used
 
@@ -165,7 +165,7 @@ ma'	with
 ta'	of
 sa	as far as
 minn	from
-għal	for 
+għal	for
 lil	to
 bħal	like
 
@@ -213,7 +213,7 @@ dawk	those
 
 ### Root
 Maltese has uses Semitic roots to derive meanings for words.
-Roots are based on 3 consonants (called radicals), but infrequently, 4 or 5. 
+Roots are based on 3 consonants (called radicals), but infrequently, 4 or 5.
 Let's look at some examples:
 
 The root √K-T-B, is used for words related to writing.
@@ -223,54 +223,73 @@ KiTeB - A verb meaning to write.
 
 Semitic are not just prevelant in Maltese, but also other Semitic languages like Hebrew or Arabic. Words in these languages, with the K-T-B root, will also give you words relating to writing.
 
+###Conjugation forms
+
+When conjugating in Maltese, a verb can be conjugated in four ways that will be known as the
+
+### Imperfect (present tense)
+
+Singular Imperative (SI)
+Conjugation for present tense when only ony one person or entity performs a verb (Conjugation for imperfect singular)
+
+Plural Imperative (PI)
+Conjugation for present tense when several people or entities performs a verb (Conjugation for imperfect plural)
+
+Papa (this is a nickname I'll denote for this conjugation)
+Conjugation for past tense when the speaker or listener (1st person and 2nd person) performs a verb (Conjugation for perfect 1st and 2nd person)
+
+Mamma
+Conjugation for past tense when someone other than speaker or listener (1st person and 2nd person) performs a verb (Conjugation for perfect 3rd person)
+
+the imperfect tense refers to verbs that are done in the present. It is formed by getting CIS for when one subject acts out the verb and CIP when several subjects act it out, and adding the appropriate suffixes to denote WHO did the verb.
+The prefixes added for the imperfect are as follows:
+- N-	I [with SI]; We [with PI]
+- T-	You; She [with SI]
+- J-	He [with SI]; They [with PI]
+
+There are vague rules that can be used to form PI based on the SI:
+- If SI ends in a vowel and then a consonant, swap the last two letters around and make last letter "u" to make root 2.
+- If SI ends in 2 consonants in a row, [SI] + "u" = [PI]
+- If SI ends in "a" or "e", then [SI] + "w" = [PI]
+- If SI ends in "i", then [SI] - "i" + "u" = [PI]
+
+### Perfect (past tense)
+
+the perfect tense refers to verbs that have already been done in the past, the past tense. Imperfect uses suffixes to denote who performed the verb, while the perfect uses suffixes instead, as well as requiring the mamma and Papa conjugations
+[Papa] + "t" =											I [perfect verb]; You [perfect verb]
+[Mamma] =														He [perfect verb]
+[Mamma] - [last consonant] + "et" =	She [perfect verb]
+[Papa] + "na" =											We [perfect verb]
+[Papa] + "tu" =											You [plural; perfect verb]
+[Mamma] - [last consonant] + "u" =	They [perfect verb]
+
+Some verbs that end in an "a" or "e" (Italian verbs included here), as well as some shorter verbs follow a slightly different pattern, as demonstrated below:
+[Papa] + "jt" =		I [perfect verb]; You [perfect verb]
+[Mamma] =					He [perfect verb]
+[Mamma] + "t" =		She [perfect verb]
+NOTE: Often the 3rd person female changes irregularly, this will need to be learnt by heart
+
+[Papa] + "jna" =	We [perfect verb]
+[Papa] + "jtu" =	You [plural; perfect verb]
+[Mamma] + "w" =		They [perfect verb]
+NOTE: Sometimes "għu" is used instead of "w" (usually for verbs with GĦ as their final root)
+
+### Imperative mood
+
+The imperative denotes that a verb is a command, an instruction to do a verb, and can be directed to a singular or several entities.
+This is by far the easiest mood, as the singular form is simply the SI and the plural is the PI.
+
 ### Negative
-To turn a verb into it's negative, you add the letter 'm' to the beginning of the verb.
-Then, you put the letter 'x' at the end of the verb.
+
+To turn a verb into it's negative, The auxiliary verb "ma" is added before the verb. If the verb starts with a vowel, this is shortened to "m'" and is attached directly to the verb. Then the letter "x" is added onto the end of the verb.
 
 For Example:
 m'iniex - I am not
 mhux - He is not
 
-### Perfect (past)
-Italian
-Add the following onto the mamma for the following conjugations:
--?jt	I [past tense verb]
--?jt	You [past tense verb]
--?	He [past tense verb]
--?t	She [past tense verb]
--?jna	We [past tense verb]
--?jtu	You [plural] [past tense verb]
--?w	They [past tense verb]
 
 
-
-### Imperfect (present)
-Made by two conjugations (singular and plural) and a suffix to denote the subject (person or thing doing the verb). 
-Plural forms are often formed by doing the following to singular:
-- Adding a "w" or "u"
-- Swapping letters and then adding a "w" or "u"
-- Replacing final vowel with "w" or "u"
-(Note: "w" used after vowel, "u" after consonant)
-
-Arabic
-If singular form ends in consonant with a vowel before it, swap last two letters around and make last letter "u".
-If singular form ends in 2 consonants, simply add a "u" to make plural form
-If singular form ends in vowel, add an "w" to the end if the last letter is an "e" or "a" or replace the last letter with an "u" if the last letter is an "i"
-
-
-
-Italian
-Singular form is the mamma form (pseudo-infinitive, the dictionary form 3rd person male perfect, whichever you prefer)
-Plural form is the mamma with a "w" on the end, and the subject suffixes are as follows:
-n-	I [verb]; We [verb]
-t-	You [verb]; She [verb]
-j-	He [verb]; They [verb]
-
-### Imperative (commands)
-
-Italian
-Singular imperative is the singular imperfect with no subject suffixes
-Plural imperative is the plural imperfect with no subject suffixes
+PRONOUNS
 
 Object pronouns
 
@@ -390,4 +409,3 @@ laħaq	To reach
 naqas	To decrease
 qabel	To agree
 ġenbel	To hit; To beat
-
