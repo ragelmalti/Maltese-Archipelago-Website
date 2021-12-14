@@ -38,7 +38,7 @@ The letters in Maltese are as follows with their IPA and a description:
 - **Oo**	/o/,/ɔ/
 - **Pp**	/p/
 - **Qq**	/ʔ/
-"Glottal stop", Which means tempoary closing the back of the throat
+"Glottal stop", Which means temporarily closing the back of the throat
 
 - **Rr**	/r/
 - **Ss**	/s/
@@ -64,19 +64,19 @@ EXAMPLES TAKEN FROM TEACH YOURSELF MALTESE & LEARN MALTESE WHY NOT
 - 'għ+i'	Same pronunciation as 'ew'
 - 'iw' 	A combination of short i and w		E.g. liwja - a bend
 - 'għ+u'	Same pronunciation as 'aw'
-- 'għ+h'	Pronunced as ħħ				E.g. tagħha - taħħa
+- 'għ+h'	Pronounced as ħħ				E.g. tagħha - taħħa
 
 ## Closer look at Maltese script
 
+Interestingly, Maltese scripting has gone through various phases and used to include these letters:  
 
-Interestingly, Maltese scripting has gone through various phases and used to include these letters:
-Чɥ
-Identical to Ċ, is a cyrillic letter used by slavic languages
+- Чɥ  
+Identical to Ċ, is a Cyrillic letter used by Slavic languages
 
-Ɯɯ
-Identical to X, looks similar to cyrillic Ш, but also Arabic ش or moreso س, which leads us to another interesting observation
+- Ɯɯ  
+Identical to X, looks similar to Cyrillic Ш, but also Arabic ش or س (With phonetic values X and S respectively)
 
-Here are all Maltese consonants with their respective Arabic counterpart (vowels use variations of Alef):
+Here are all Maltese consonants with their respective Arabic counterpart:
 - Bb	ب
 - Ċċ	چ (Not standard)
 - Dd	د
@@ -102,30 +102,55 @@ Here are all Maltese consonants with their respective Arabic counterpart (vowels
 - Zz	ﻙ (Najdi Arabic)
 - Żż	ز
 
-This makes Maltese one of the easiest European languages to write using Arabic script, despite the Italian influence which forces for non standard Arabic characters to be used
+This makes Maltese one of the easiest European languages to write using Arabic script, despite the Italian influence which forces for non standard Arabic characters to be used.
 
 # GRAMMAR
 
 ## Definite article
 
-Xemxin (sun consonants): ċ d n r s t x ż z
+The definite article essentially refers to the word "the", which is used to denote the noun is a specific object or entity. To form "the" in Maltese, we will need to classify the language's consonants into 2 categories; Xemxin (Sun consonants) and Qamrin (Moon consonants).
+
+Xemxin (sun consonants): ċ d n r s t x ż z  
 Qamrin (moon consonants): b f ġ g għ h ħ j k l m p q v w
 
-With sun letters, the definite article is formed by adding the first letter of the noun onto the letter "I". So words starting with N have the article "In-" attached to the word as a prefix, those with S have "Is-", those with Ċ "Iċ-" and so forth
+What makes some letters sunny and others not? Ask the Arabs, I haven't the slightest clue. With Xemxin, the definite article is formed by adding the first letter of the noun onto the letter "i". So words starting with N have the article "In-" attached to the word as a prefix, those with S have "Is-", those with Ċ "Iċ-" and so forth.
 
-Moon letters always use "Il-" as the definite article, attached to the word as a prefix, how simple
+Examples  
+> Ir-raġel (The man)
+>
+> Ix-xemx (The sun)
 
-Words starting with two consonants have the article "L-i" attached to the word as a prefix
+Moon letters always use "Il-" as the definite article, attached to the word as a prefix, how simple!
 
-When an article starts with "I", this "I" may be dropped if the previous word finished in a vowel, for a smoother sound
+Examples  
+> Il-mara (The woman)
+>
+> Il-kelba (The dog)
+
+Words starting with two consonants, or with a vowel have the article "L-" attached to the word as a prefix. This is also the case if the previous word finishes in a vowel, as dropping the initial "i" makes a smoother sound.
+
+Examples  
+> L-vjaġġ (The journey)
+>
+> L-innu (The hymn)
 
 ## Gender
 
 Maltese has two genders; Male and Female. Gender is important as only adjectives of the same gender of the noun can be paired together (generally).
 
-It is important to know the gender of a noun so you know what type of adjective to pair it with. With italian derived nouns, it is usually feminine if the noun ends in an "a"
+Some nouns can change gender in some situations, for example the word for "dog" changes gender based on the actual gender of the dog in question (if there is one). As stated, the noun and adjective must match genders, and so being able to change the adjective's gender to fit the noun is an essential skill. Here are some common rules for performing this:  
+- If the male adjective ends in a consonant, add an "a" to the end of the male adjective
+- If the male adjective ends in an "i", add "ja" instead
+- If the male adjective ends in an "u", replace the "u" with an "a"
 
-Many Maltese adjectives (especially ones of italian origin) make their feminine form by adding an "a" on the end of the masculine form.
+Examples  
+> Qawwi (Beautiful [male]) -> Qawwija (Beautiful [female])
+>
+> Sabbiħ (Beautiful [male]) -> Sabbiħa (Beautiful [female])
+>
+> Stupidu (Stupid [male]) -> Stupida (Stupid [female])
+
+There are exceptions to better suit Maltese phonetics, and vowels (in typical Semitic fashion) are often omitted, however after practice and experience these will become no trouble. It should also be noted that if the noun is the subject of a verb (the object or person doing the verb), its gender will determine whether which conjugation it will take, but more on this later on, no need to worry now!
 
 ## Plural
 
@@ -137,77 +162,24 @@ They come after the verb
 
 ## Comparatives
 
-Some words will have their own comparative form that will need to be learned, however for words without there are still options.
+A comparative is a form of adjective that describes the noun it is linked with as having a higher degree of something in comparison to others. For instance, "stronger" is a comparative of "strong", as "stronger" implies one entity has a higher degree of strength than another.
 
-Using the word "more" after the adjective forms the comparative for adjectived deprived of a comparative
+Some words will have their own comparative form that will need to be learned, however for words without there are still options. Using the word "more" before the adjective forms the comparative for adjective deprived of a comparative.
 
-Iktar	More
-Aktar	More
-
-To compare to a specific person or noun, you can use a "minn" to compare
-
-Minn	Than; From
-Minni	Than me; From me
-Minnek	Than you; From you
-Minnu	Than him; From him
-Minnha	Than her; From her
-Minna	Than us; From us
-Minnkom	Than you [plural]; From you [plural]
-Minnhom	Than them; From them
-
-## Prepositions
-The preposition is followed by the definite article.
-Prepositions are also joined to sun letters.
-
-fi	in
-bi	with
-ma'	with
-ta'	of
-sa	as far as
-minn	from
-għal	for
-lil	to
-bħal	like
+- Iktar/Aktar	More
 
 ## Superlatives
 
-Adding "L-aktar" before the adjective forms this.
+A superlative refers to an adjective that modifies a noun to describe that not only does it have a higher degree of something like the comparative, but that it has the HIGHEST degree of something, like "strongest" in comparison to just "stronger", which only describes that one entity has more strength than another, while "strongest" implies no entity can even rival with it.
 
-## Possessive pronouns
+To form the superlative, one adds "L-aktar" before the adjective they wish to make into the superlative.
 
-Ta'	Of
-Tiegħi	My
-Tiegħek	Your
-Tiegħu His
-Tagħha	Her [possessive]
-Tagħna	Our
-Tagħkom	Your [plural]
-Tagħhom	Their
-
-
-
-## Subject pronouns
-
-Denote who is carrying out the verb
-
-jien / jiena	I
-int / inti	You
-hu / huwa	He & it
-hi / hija 	She & it
-aħna		We
-intom		You [plural]
-huma		They
-
-## Demonstrative pronouns
-### Masculine
-dan	this
-dak 	that
-### Feminine
-din	this
-dik	that
-### Plural
-dawn	these
-dawk	those
+Examples  
+>	Ex
+>
+> am
+>
+> ple
 
 ## Conjugation
 
@@ -247,165 +219,128 @@ The prefixes added for the imperfect are as follows:
 - T-	You; She [with SI]
 - J-	He [with SI]; They [with PI]
 
-There are vague rules that can be used to form PI based on the SI:
-- If SI ends in a vowel and then a consonant, swap the last two letters around and make last letter "u" to make root 2.
+There are vague rules that can be used to form PI based on the SI:  
+- If SI ends in a vowel and then a consonant, swap the last two letters around and make last letter "u" to make root 2.  
 - If SI ends in 2 consonants in a row, [SI] + "u" = [PI]
 - If SI ends in "a" or "e", then [SI] + "w" = [PI]
 - If SI ends in "i", then [SI] - "i" + "u" = [PI]
 
 ### Perfect (past tense)
 
-the perfect tense refers to verbs that have already been done in the past, the past tense. Imperfect uses suffixes to denote who performed the verb, while the perfect uses suffixes instead, as well as requiring the mamma and Papa conjugations
-[Papa] + "t" =											I [perfect verb]; You [perfect verb]
-[Mamma] =														He [perfect verb]
+the perfect tense refers to verbs that have already been done in the past, the past tense. Imperfect uses suffixes to denote who performed the verb, while the perfect uses suffixes instead, as well as requiring the mamma and Papa conjugations  
+[Papa] + "t" =											I [perfect verb]; You [perfect verb]  
+[Mamma] =														He [perfect verb]  
 [Mamma] - [last consonant] + "et" =	She [perfect verb]
-[Papa] + "na" =											We [perfect verb]
-[Papa] + "tu" =											You [plural; perfect verb]
-[Mamma] - [last consonant] + "u" =	They [perfect verb]
+[Papa] + "na" =											We [perfect verb]  
+[Papa] + "tu" =											You [plural; perfect verb]  
+[Mamma] - [last consonant] + "u" =	They [perfect verb]  
 
-Some verbs that end in an "a" or "e" (Italian verbs included here), as well as some shorter verbs follow a slightly different pattern, as demonstrated below:
-[Papa] + "jt" =		I [perfect verb]; You [perfect verb]
-[Mamma] =					He [perfect verb]
-[Mamma] + "t" =		She [perfect verb]
-NOTE: Often the 3rd person female changes irregularly, this will need to be learnt by heart
+Some verbs that end in an "a" or "e" (Italian verbs included here), as well as some shorter verbs follow a slightly different pattern, as demonstrated below:  
+[Papa] + "jt" =		I [perfect verb]; You [perfect verb]  
+[Mamma] =					He [perfect verb]  
+[Mamma] + "t" =		She [perfect verb]  
+NOTE: Often the 3rd person female changes irregularly, this will need to be learnt by heart  
 
 [Papa] + "jna" =	We [perfect verb]
 [Papa] + "jtu" =	You [plural; perfect verb]
 [Mamma] + "w" =		They [perfect verb]
-NOTE: Sometimes "għu" is used instead of "w" (usually for verbs with GĦ as their final root)
+NOTE: Sometimes "għu" is used instead of "w" (usually for verbs with GĦ as their final root)  
 
 ### Imperative mood
 
 The imperative denotes that a verb is a command, an instruction to do a verb, and can be directed to a singular or several entities.
-This is by far the easiest mood, as the singular form is simply the SI and the plural is the PI.
+This is by far the easiest mood, as the singular form is simply the SI and the plural is the PI.  
 
 ### Negative
 
-To turn a verb into it's negative, The auxiliary verb "ma" is added before the verb. If the verb starts with a vowel, this is shortened to "m'" and is attached directly to the verb. Then the letter "x" is added onto the end of the verb.
+To turn a verb into it's negative, The auxiliary verb "ma" is added before the verb. If the verb starts with a vowel, this is shortened to "m'" and is attached directly to the verb. Then the letter "x" is added onto the end of the verb.  
 
 For Example:
-m'iniex - I am not
-mhux - He is not
+> **M**'ini**x** kuntent. (I am not happy.)
+>
+> **Ma** tiekol**x** ċikkulata? (You don't eat chocolate?)
+>
+> **Ma** jifhmu**x** it-Taljan. (They don't understand Italian.)
 
+## Pronouns
 
+## Subject pronouns
 
-PRONOUNS
+Subject pronouns are important in Maltese as they serve many purposes. Since Maltese (like Arabic) makes limited use of the copula ("To be"), subject pronouns often link words together in the same way as English "is". They can also be used before verbs to add more emphasis to them, which can make your Maltese sound more authentic when properly employed.
 
-Object pronouns
+- Jien; Jiena	I (am)
+- Int; Inti	You (are)
+- Hu; Huwa	He (is); It [male] (is)
+- Hi; Hija 	She (is); It [female] (is)
+- Aħna		We (are)
+- Intom		You [plural] (are)
+- Huma		They (are)
 
-Direct object
--ni	Me
--ok	You
--nu	Him
--ha	Her
--na	Us
--kom	You [plural]
--hom	Them
+Examples  
+>	Jiena sfortunatament xiħ. (I am unfortunately an old man.)
+>
+> Inti kilt l-Ħobż?! (YOU ate the bread?!)
+>
+> Hija sabbiħa hafna... (She's so beautiful...)
 
-Indirect object
+### Direct object
 
--li	Me
--lok	You
--lu	Him
--ilha	Her
--ilna	Us
--ilkom	You [plural]
--ilhom	Them
+The direct object is best described as the "victim" of a verb. It has been said that subject pronouns are often the entity executing the verb, but the direct object represents rather what is on the receiving end of a verb.
+- -ni	Me
+- -ok	You
+- -nu	Him
+- -ha	Her
+- -na	Us
+- -kom	You [plural]
+- -hom	Them
 
-Auxiliary verbs
+Examples  
+>	Inħobbok. (I love you)
+>
+>  (YOU ate the bread?!)
+>
+> Hija sabbiħa hafna... (She's so beautiful...)
 
-Qed	[denotes continuous verb]
-Se	[denotes future verb]
-Biex	In order to; [denotes purpose of verb]
+### Indirect object
+- -li	Me
+- -lok	You
+- -lu	Him
+- -ilha	Her
+- -ilna	Us
+- -ilhom	Them
+- -ilkom	You [plural]
 
-Basic verbs
+## Auxiliary verbs
 
-Kellu	To have; To own
-Mar	To go
-Ġie	To come; To cum
-Għamel	To do; To make [someone do]
-Ħa	To take; To get
-Kiel	To eat
-Ta	To give
-Qal	To say
-Saqsa	To ask
-Ra	To see; To understand
-Tkellem	To speak
-Fehem	To understand; To realise
-Ried	To want
-Qara	To read
-Għad	To say; To tell
-Kiteb	To write
-Beda	To start
-Xara	To buy
-Ħaseb	To think
-Biegħ	To sell; To betray
-Sema'	To listen
-Mexa	To walk; To progress
-Ħareġ	To exit; To leave
-Ġera	To run; To flow [water]
-Tilef	To lose
-Sar	To become
-Ħadem	To work
-Xorob	To drink
-Fetaħ	To open
-Għalaq	To close; To shut
-Wasal	To arrive
-Ipprova	To try; To attempt
-Parta	To leave [depart]
-Telaq	To leave [behind]
-Kanta	To sing
-Raqad	To sleep; To rest [nap; a situation]
-Sab	To discover
-Ltaqa'	To meet
-Kiseb	To get; To obtain
-Rċieva	To receive
-Fisser	To explain
-Laqa'	To welcome
-Wera	To show
-Kisser	To break [transitive]
-Tkisser	To be broken [intransitive]
-Ħalla	To leave [alone; Ħ-L-J]; To sweeten [Ħ-L-W]
-Talab	To request; To beg; To pray
-Tar	To fly
-Vjaġġa	To travel; To voyage; To tour
-Siefer	To travel; To die [euphemism]; To leave [for another destination]
-Miet	To die
-Twieled	To be born [human]
-Tferraħ	To be born [animal]
-Ċempel	To call [phone]
-Libes	To wear; To get dressed
-Naddaf	To clean
-Ipprattika	To practice
-Għażel	To choose
-Sajjar	To cook
-Emmen	To believe
-Kiber	To grow; To become proud
-Ħoloq	To create
-Bena	To build
-Għoġob	To be pleasing [intransitive]
-Bagħad	To hate
-Ħtieġ	To need [something]; To require
-Qam	To wake up; To stand
-Waqfa	To stop
-Ġab	To bring
-Qata'	To cut
-Uża	To use
-Waqa'	To fall
-Żamm	To hold
-Ħabb	To love
-Għam	To swim
-75
-Bagħat	To send
-Af	To know
-Tgħallem	To learn
-ftakar	To remember
-daħal	To enter
-fittex	To search
-ħasel	To wash
-nadar	To watch
-qatel	To kill
-laħaq	To reach
-naqas	To decrease
-qabel	To agree
-ġenbel	To hit; To beat
+## Prepositions
+The preposition is followed by the definite article.
+Prepositions are also joined to sun letters.
+
+- Bi	in
+- Bi	with
+- Ma'	with
+- Ta'	of
+- Sa	as far as
+- Minn	From; Than
+- Għal	for
+- Lil	to
+- Bħal	like
+
+## Possessive pronouns
+
+Ta'	Of
+Tiegħi	My
+Tiegħek	Your
+Tiegħu His
+Tagħha	Her [possessive]
+Tagħna	Our
+Tagħkom	Your [plural]
+Tagħhom	Their
+
+## Demonstrative pronouns
+Dan	This [male]
+Dak 	That [female]
+Din	This [male]
+Dik	That [female]
+Dawn	These
+Dawk	Those
