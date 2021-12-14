@@ -5,3 +5,5 @@
 - List of Maltese recipes
 - List of Maltese music, with lyrics in Malti, and English.
 - Interactive map, listing all the churches in Malta.
+- Pronunciation of Maltese words - maybe a tts engine????
+
