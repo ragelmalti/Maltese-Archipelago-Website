@@ -8,13 +8,13 @@ The letters in Maltese are as follows with their IPA and a description:
 - **Aa**	/a/,/ɐ/,/æ/
 - **Bb**	/b/
 - **Ċċ**	/t͡ʃ/
-- Essentially the English CH sound
+- Essentially the English "CH" sound like in "Cheese"
 
 - **Dd**	/d/
 - **Ee**	/ɨ/,/e/,/ɛ/
 - **Ff**	/f/
 - **Ġġ**	/d͡ʒ/
-- Pronounced like English J in "Jew"
+- Pronounced like English "J" in "Jew"
 
 - **Gg**	/ɡ/
 - Essentially the English hard G sound in words like Ground and Girl, but not like German and Gene
@@ -29,7 +29,7 @@ The letters in Maltese are as follows with their IPA and a description:
 - **Ii**	/i/,/ɪ/
 - **IEie**	/ɪ/,/ɛ/,/ɨː/
 - **Jj**	/j/
-- Pronounced like English Y, English J is pronounced as Ġ
+- Pronounced like English "Y", English "J" is pronounced as "Ġ"
 
 - **Kk**	/k/
 - **Ll**	/l/
@@ -47,11 +47,11 @@ The letters in Maltese are as follows with their IPA and a description:
 - **Vv**	/v/
 - **Ww**	/w/
 - **Xx**	/ʃ/, /ʒ/
-- Pronounced like SH in "Shell", not as English X
+- Pronounced like "SH" in "Shell", not as English "X"
 
 - **Żż**	/z/
 - **Zz**	/t͡s/, /d͡z/
-- Pronounced like TS in "Tsunami"
+- Pronounced like "TS" in "Tsunami"
 
 ## Diphthongs
 EXAMPLES TAKEN FROM TEACH YOURSELF MALTESE & LEARN MALTESE WHY NOT
@@ -154,7 +154,14 @@ There are exceptions to better suit Maltese phonetics, and vowels (in typical Se
 
 ## Plural
 
-Plurals denote several of a noun (Cars, rather than car. Men rather than man). Plural nouns also require the adjective to be in plural form aswell, in addition to being in the same gender. For Italian nouns and adjectives, an "i" is added onto the end of the word, or if the final letter of the word is already a vowel, that final vowel is replaced with the "i"
+Plurals denote several of a noun (Cars, rather than car. Men rather than man). Plural nouns also require the adjective to be in plural form as well, in addition to being in the same gender. For Italian nouns and adjectives, an "i" is added onto the end of the word, or if the final letter of the word is already a vowel, that final vowel is replaced with the "i"
+
+Examples  
+>	Karozza -> Karozzi
+>
+>
+>
+> ple
 
 ## Adverbs
 
@@ -166,7 +173,7 @@ A comparative is a form of adjective that describes the noun it is linked with a
 
 Some words will have their own comparative form that will need to be learned, however for words without there are still options. Using the word "more" before the adjective forms the comparative for adjective deprived of a comparative.
 
-- Iktar/Aktar	More
+- Iktar; Aktar	More
 
 ## Superlatives
 
@@ -193,13 +200,11 @@ KTieB - A noun meaning book
 KiTTieB - A noun meaning writer
 KiTeB - A verb meaning to write.
 
-Semitic are not just prevelant in Maltese, but also other Semitic languages like Hebrew or Arabic. Words in these languages, with the K-T-B root, will also give you words relating to writing.
+Semitic are not just prevalent in Maltese, but also other Semitic languages like Hebrew or Arabic. Words in these languages, with the K-T-B root, will also give you words relating to writing.
 
-###Conjugation forms
+### Conjugation forms
 
 When conjugating in Maltese, a verb can be conjugated in four ways that will be known as the
-
-### Imperfect (present tense)
 
 Singular Imperative (SI)
 Conjugation for present tense when only ony one person or entity performs a verb (Conjugation for imperfect singular)
@@ -212,6 +217,10 @@ Conjugation for past tense when the speaker or listener (1st person and 2nd pers
 
 Mamma
 Conjugation for past tense when someone other than speaker or listener (1st person and 2nd person) performs a verb (Conjugation for perfect 3rd person)
+
+These forms will serve as base terminology for the rest of this chapter.
+
+### Imperfect (present tense)
 
 the imperfect tense refers to verbs that are done in the present. It is formed by getting CIS for when one subject acts out the verb and CIP when several subjects act it out, and adding the appropriate suffixes to denote WHO did the verb.
 The prefixes added for the imperfect are as follows:
@@ -264,7 +273,7 @@ For Example:
 
 ## Pronouns
 
-## Subject pronouns
+### Subject pronouns
 
 Subject pronouns are important in Maltese as they serve many purposes. Since Maltese (like Arabic) makes limited use of the copula ("To be"), subject pronouns often link words together in the same way as English "is". They can also be used before verbs to add more emphasis to them, which can make your Maltese sound more authentic when properly employed.
 
@@ -297,9 +306,9 @@ The direct object is best described as the "victim" of a verb. It has been said 
 Examples  
 >	Inħobbok. (I love you)
 >
->  (YOU ate the bread?!)
+> Int tiekol il-ħobż?! (YOU ate the bread?!)
 >
-> Hija sabbiħa hafna... (She's so beautiful...)
+> Hija sabbiħa ħafna... (She's so beautiful...)
 
 ### Indirect object
 - -li	Me
@@ -310,9 +319,9 @@ Examples
 - -ilhom	Them
 - -ilkom	You [plural]
 
-## Auxiliary verbs
+### Auxiliary verbs
 
-## Prepositions
+### Prepositions
 The preposition is followed by the definite article.
 Prepositions are also joined to sun letters.
 
@@ -326,21 +335,41 @@ Prepositions are also joined to sun letters.
 - Lil	to
 - Bħal	like
 
-## Possessive pronouns
+### Possessive pronouns
 
-Ta'	Of
-Tiegħi	My
-Tiegħek	Your
-Tiegħu His
-Tagħha	Her [possessive]
-Tagħna	Our
-Tagħkom	Your [plural]
-Tagħhom	Their
+To state the owner or origin of an object or entity, possessive pronouns become the main way of describing the ownership of nouns. In Maltese, to link the ownership of one noun to another, "Ta'" can simply be used in between to mean "of". Otherwise, inflections of "Ta'" (as seen below) and possessive suffixes to add to nouns must be used to describe possession. Here are the required words:
 
-## Demonstrative pronouns
-Dan	This [male]
-Dak 	That [female]
-Din	This [male]
-Dik	That [female]
-Dawn	These
-Dawk	Those
+- Ta'	Of
+- Tiegħi	My; Mine
+- Tiegħek	Your; Yours
+- Tiegħu His; Its [male]
+- Tagħha	Her [possessive]; Hers; Its [female]
+- Tagħkom	Your [plural]; Yours [plural]
+- Tagħna	Our; Ours
+- Tagħhom	Their; Theirs
+- -i; -ja	My [noun suffix]
+- -ok; -ek; -k	Your [noun suffix]
+- -u; -h	His [noun suffix]
+- -ha	Her [possessive; noun suffix]
+- -na	Our [noun suffix]
+- -on	Their [noun suffix]
+- -kom	Your [plural; noun suffix]
+
+There are irregular cases as usual, these patterns will become apparent as you learn.
+
+
+
+### Demonstrative pronouns
+
+In English, we often use "this" and "that" to give more context to a noun that is close and distant respectively (in terms of distance or time). Maltese is capable of the same grammatic function, except it will require matching the correct counterpart to the correct gender and plurality of the noun in question. Here are the translations:
+
+- Dan	This [male]
+- Dak 	That [female]
+- Din	This [male]
+- Dik	That [female]
+- Dawk	Those
+- Dawn	These
+
+# That's a wrap!
+
+Add text here or something.
