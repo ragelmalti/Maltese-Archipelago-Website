@@ -161,7 +161,7 @@ Examples
 >
 >
 >
-> ple
+>
 
 ## Adverbs
 
@@ -182,11 +182,10 @@ A superlative refers to an adjective that modifies a noun to describe that not o
 To form the superlative, one adds "L-aktar" before the adjective they wish to make into the superlative.
 
 Examples  
->	Ex
+>	L-aktar ġdid
 >
-> am
+> L-aktar qadim
 >
-> ple
 
 ## Conjugation
 
@@ -372,4 +371,4 @@ In English, we often use "this" and "that" to give more context to a noun that i
 
 # That's a wrap!
 
-Add text here or something.
+Wow, you've done well!
