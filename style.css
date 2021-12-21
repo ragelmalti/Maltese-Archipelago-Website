@@ -8,6 +8,7 @@ body {
 	/* font-size: 22px; */
 	background-color:#eadbcb;
 	background-image:url('images/spiral.svg');
+	font-family:sans-serif;
 }
 header * {
 	/* Removes space between the logo, and h1, so it looks seamless.*/
