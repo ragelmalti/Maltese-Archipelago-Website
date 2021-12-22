@@ -1,0 +1,20 @@
+Abbreviations for Ġabra
+Created by Zach, and edited by Julian
+
+When using Ġabra to find conjugations for Maltese words, 
+the website uses abbreviations in the 'Aspect' and 'Subject' 
+columns that aren't explained. 
+
+Zach has explained ALL abbreviations in the section below.
+-----------------------------------------------------------
+
+p1 First person (I, Me)
+p2 Second person (You)
+p3 Third person (He, She)
+sg Singular (one person)
+m Male form (he)
+f Female form (she)
+pl Plural (several people)
+perf Perfect (past tense)
+impf Imperfect (present tense)
+pos Positive
