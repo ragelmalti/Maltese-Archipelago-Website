@@ -8,28 +8,28 @@ The letters in Maltese are as follows with their IPA and a description:
 - **Aa**	/a/,/ɐ/,/æ/
 - **Bb**	/b/
 - **Ċċ**	/t͡ʃ/
-- Essentially the English "CH" sound like in "Cheese"
+	- Essentially the English "CH" sound like in "Cheese"
 
 - **Dd**	/d/
 - **Ee**	/ɨ/,/e/,/ɛ/
 - **Ff**	/f/
 - **Ġġ**	/d͡ʒ/
-- Pronounced like English "J" in "Jew"
+	- Pronounced like English "J" in "Jew"
 
 - **Gg**	/ɡ/
 - Essentially the English hard G sound in words like Ground and Girl, but not like German and Gene
 
 - **GĦ**	/ˤː/
-- "Long pharyngealization", which means slightly restricting back of throat
+	- "Long pharyngealization", which means slightly restricting back of throat
 
 - **Hh**	--
-- Simply not pronounced
+	- Simply not pronounced
 
 - **Ħħ**	/h/,/ħ/
 - **Ii**	/i/,/ɪ/
-- **IEie**	/ɪ/,/ɛ/,/ɨː/
+- **IE/ie**	/ɪ/,/ɛ/,/ɨː/
 - **Jj**	/j/
-- Pronounced like English "Y", English "J" is pronounced as "Ġ"
+	- Pronounced like English "Y", English "J" is pronounced as "Ġ"
 
 - **Kk**	/k/
 - **Ll**	/l/
@@ -38,7 +38,7 @@ The letters in Maltese are as follows with their IPA and a description:
 - **Oo**	/o/,/ɔ/
 - **Pp**	/p/
 - **Qq**	/ʔ/
-"Glottal stop", Which means temporarily closing the back of the throat
+	"Glottal stop", Which means temporarily closing the back of the throat
 
 - **Rr**	/r/
 - **Ss**	/s/
@@ -47,24 +47,24 @@ The letters in Maltese are as follows with their IPA and a description:
 - **Vv**	/v/
 - **Ww**	/w/
 - **Xx**	/ʃ/, /ʒ/
-- Pronounced like "SH" in "Shell", not as English "X"
+	- Pronounced like "SH" in "Shell", not as English "X"
 
 - **Żż**	/z/
 - **Zz**	/t͡s/, /d͡z/
-- Pronounced like "TS" in "Tsunami"
+	- Pronounced like "TS" in "Tsunami"
 
 ## Diphthongs
 EXAMPLES TAKEN FROM TEACH YOURSELF MALTESE & LEARN MALTESE WHY NOT
 
-- 'aj'	'igh' from high, right, fight
-- 'aw'	'ow' from cow, bow, how
-- 'ew'	A combination of a short e and w	E.g. Mewt - Death
-- 'ej'	'ay' as in may, lay, day
-- 'ij'	A combination of i and a lengthened y	E.g. hija - iyya
-- 'għ+i'	Same pronunciation as 'ew'
-- 'iw' 	A combination of short i and w		E.g. liwja - a bend
-- 'għ+u'	Same pronunciation as 'aw'
-- 'għ+h'	Pronounced as ħħ				E.g. tagħha - taħħa
+- **aj** --> **igh** from high, right, fight
+- **aw** --> **ow** from cow, bow, how
+- **ew** --> A combination of a short 'e' and 'w' | E.g. Mewt - Death
+- **ej** --> 'ay' as in may, lay, day
+- **ij** --> A combination of 'i' and a lengthened 'y' | E.g. hija - iyya
+- **għ+i** --> Same pronunciation as **ew**
+- **iw** --> A combination of short 'i' and 'w'	| E.g. liwja - a bend
+- **għ+u** --> Same pronunciation as **aw**
+- **għ+h** --> Pronounced as ħħ	| E.g. tagħha - taħħa
 
 ## Closer look at Maltese script
 
@@ -158,10 +158,6 @@ Plurals denote several of a noun (Cars, rather than car. Men rather than man). P
 
 Examples  
 >	Karozza -> Karozzi
->
->
->
->
 
 ## Adverbs
 
@@ -185,19 +181,18 @@ Examples
 >	L-aktar ġdid
 >
 > L-aktar qadim
->
 
 ## Conjugation
 
 ### Root
-Maltese has uses Semitic roots to derive meanings for words.
+Maltese uses Semitic roots to derive meanings for words.
 Roots are based on 3 consonants (called radicals), but infrequently, 4 or 5.
 Let's look at some examples:
 
 The root √K-T-B, is used for words related to writing.
-KTieB - A noun meaning book
-KiTTieB - A noun meaning writer
-KiTeB - A verb meaning to write.
+- **KT**ie**B** - A noun meaning book
+- **K**i**TT**ie**B** - A noun meaning writer
+- **K**i**T**e**B** - A verb meaning to write.
 
 Semitic are not just prevalent in Maltese, but also other Semitic languages like Hebrew or Arabic. Words in these languages, with the K-T-B root, will also give you words relating to writing.
 
@@ -205,16 +200,20 @@ Semitic are not just prevalent in Maltese, but also other Semitic languages like
 
 When conjugating in Maltese, a verb can be conjugated in four ways that will be known as the
 
-Singular Imperative (SI)
+**Singular Imperative (SI)**
+
 Conjugation for present tense when only ony one person or entity performs a verb (Conjugation for imperfect singular)
 
-Plural Imperative (PI)
+**Plural Imperative (PI)**
+
 Conjugation for present tense when several people or entities performs a verb (Conjugation for imperfect plural)
 
-Papa (this is a nickname I'll denote for this conjugation)
+**Papa (this is a nickname I'll denote for this conjugation)**
+
 Conjugation for past tense when the speaker or listener (1st person and 2nd person) performs a verb (Conjugation for perfect 1st and 2nd person)
 
-Mamma
+**Mamma**
+
 Conjugation for past tense when someone other than speaker or listener (1st person and 2nd person) performs a verb (Conjugation for perfect 3rd person)
 
 These forms will serve as base terminology for the rest of this chapter.
@@ -223,9 +222,9 @@ These forms will serve as base terminology for the rest of this chapter.
 
 the imperfect tense refers to verbs that are done in the present. It is formed by getting CIS for when one subject acts out the verb and CIP when several subjects act it out, and adding the appropriate suffixes to denote WHO did the verb.
 The prefixes added for the imperfect are as follows:
-- N-	I [with SI]; We [with PI]
-- T-	You; She [with SI]
-- J-	He [with SI]; They [with PI]
+- **N** --> 'I' [with SI]; We [with PI]
+- **T** --> 'You'; 'She' [with SI]
+- **J** --> 'He' [with SI]; 'They' [with PI]
 
 There are vague rules that can be used to form PI based on the SI:  
 - If SI ends in a vowel and then a consonant, swap the last two letters around and make last letter "u" to make root 2.  
@@ -236,22 +235,22 @@ There are vague rules that can be used to form PI based on the SI:
 ### Perfect (past tense)
 
 the perfect tense refers to verbs that have already been done in the past, the past tense. Imperfect uses suffixes to denote who performed the verb, while the perfect uses suffixes instead, as well as requiring the mamma and Papa conjugations  
-[Papa] + "t" =											I [perfect verb]; You [perfect verb]  
-[Mamma] =														He [perfect verb]  
-[Mamma] - [last consonant] + "et" =	She [perfect verb]
-[Papa] + "na" =											We [perfect verb]  
-[Papa] + "tu" =											You [plural; perfect verb]  
-[Mamma] - [last consonant] + "u" =	They [perfect verb]  
+- [Papa] + "t" = I [perfect verb]; You [perfect verb]  
+- [Mamma] = He [perfect verb]  
+- [Mamma] - [last consonant] + "et" = She [perfect verb]
+- [Papa] + "na" = We [perfect verb]  
+- [Papa] + "tu" = You [plural; perfect verb]  
+- [Mamma] - [last consonant] + "u" = They [perfect verb]  
 
 Some verbs that end in an "a" or "e" (Italian verbs included here), as well as some shorter verbs follow a slightly different pattern, as demonstrated below:  
-[Papa] + "jt" =		I [perfect verb]; You [perfect verb]  
-[Mamma] =					He [perfect verb]  
-[Mamma] + "t" =		She [perfect verb]  
+- [Papa] + "jt" = I [perfect verb]; You [perfect verb]  
+- [Mamma] = He [perfect verb]  
+- [Mamma] + "t" = She [perfect verb]  
 NOTE: Often the 3rd person female changes irregularly, this will need to be learnt by heart  
 
-[Papa] + "jna" =	We [perfect verb]
-[Papa] + "jtu" =	You [plural; perfect verb]
-[Mamma] + "w" =		They [perfect verb]
+- [Papa] + "jna" = We [perfect verb]
+- [Papa] + "jtu" = You [plural; perfect verb]
+- [Mamma] + "w" =	They [perfect verb]
 NOTE: Sometimes "għu" is used instead of "w" (usually for verbs with GĦ as their final root)  
 
 ### Imperative mood
@@ -276,16 +275,16 @@ For Example:
 
 Subject pronouns are important in Maltese as they serve many purposes. Since Maltese (like Arabic) makes limited use of the copula ("To be"), subject pronouns often link words together in the same way as English "is". They can also be used before verbs to add more emphasis to them, which can make your Maltese sound more authentic when properly employed.
 
-- Jien; Jiena	I (am)
-- Int; Inti	You (are)
-- Hu; Huwa	He (is); It [male] (is)
-- Hi; Hija 	She (is); It [female] (is)
-- Aħna		We (are)
-- Intom		You [plural] (are)
-- Huma		They (are)
+- Jien; Jiena --> I (am)
+- Int; Inti --> You (are)
+- Hu; Huwa ♂ --> He (is); It (is)
+- Hi; Hija ♀ --> She (is); It (is)
+- Aħna --> We (are)
+- Intom (Plural) --> You (are)
+- Huma --> They (are)
 
 Examples  
->	Jiena sfortunatament xiħ. (I am unfortunately an old man.)
+> Jiena sfortunatament xiħ. (I am unfortunately an old man.)
 >
 > Inti kilt l-Ħobż?! (YOU ate the bread?!)
 >
