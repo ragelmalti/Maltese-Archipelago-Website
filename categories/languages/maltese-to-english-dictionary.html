@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Maltese to English Dictonary + Tutorial</title>
+		<meta charset="utf-8"/>
+		<meta name="keywords" content="Malta, history, culture, language, religion"/>
+		<meta name="description" content="A short essay glorifying Malta"/>
+		<meta name="robots" content="index,follow" />
+		<!--Open Graph Meta tags -->
+		<meta name="og:title" content="Maltese to English Dictonary + Tutorial"/>
+		<meta name="og:description" content="A short essay glorifying Malta"/>
+		<meta name="og:image" content="/open-graph.png"/>
+		<meta name="og:type" content="website"/>
+		<meta name="og:url" content="https://maltese-archipelago-info.neocities.org/categories/language/maltese-to-english-dictonary.html"/>
+		<!--Link tags -->
+		<link rel="shortcut icon" type="image/jpg" href="../../images/tab.ico"/>
+		<link rel="stylesheet" type="text/css" href="../../style.css"/>
+	</head>
+	<body>
+		<main>
+		<header>
+			<a href="../../index.html"><p style="text-align:center;"> <img class="logo" src="../../images/logo.svg" alt="Maltese Archipeligo Information"></p></a>
+		<h1>Maltese to English Dictionary + Tutorial</h1>
+		</header>
+		<div>
+		<h2>Introduction</h2>
+		<p>I, Julian, have created a very simple Maltese to English dictionary, that I am able to add words to easily, and view offline. </p>
+		<p>The dictionary is written in the 'ABBYY Lingvo .dsl' format, using the <a href="http://www.goldendict.org/">'GoldenDict,' dictionary program</a>, available on Windows, Linux and Android, to read the contents of the file. Other programs can be used, such as <a href="https://fora-dictionary-pro.com/">Fora Dictionary Pro</a> on iOS and Android, to view the dictionary.</p>
+		<h2>Layout</h2>
+		<p style="text-align:center;"><img style="width:650px;" src=../../images/dict/layout.png></p>
+		<p>When you search for a word in Maltese:</p>
+		<ul>
+			<li>The word in bold, signifies the Maltese word.</li> 
+			<li>The first line, details the type of word, as well as what form the word is in (Male, Female, Plural)</li>
+			<li>The indented second line, indicates the English translation</li>
+		</ul>
+		<p><i>Note: that the layout I have created, may be subject to changes in the future. When creating your own dictionary, you can create your own layout, in what ever way you see fit.</i></p>
+		<p>Whilst normally, searching is one way, Maltese to English, you can also search in the reverse, English to Maltese. This is useful, as words have multiple forms in Maltese, that are not always easy to derive.</p>
+		<p>To do this with Goldendict, you use the <b>'Full-Text search'</b> feature. The Goldendict manual states that: </p>
+		<blockquote> The full-text search dialog can be called via menu "Search" or by pressing the "Ctrl+Shift+F" keys. Such search allow to search words and expressions <b>NOT in dictionary headwords BUT in articles text of dictionaries</b> from current dictionaries group.</blockquote>
+		<p>Let's try searching for the English word: 'red.'</p>
+		<p style="text-align:center;"><img style="width:650px" src="../../images/dict/full-text.png"></p>
+		<p>As you can see, there are 3 forms of the word red in Maltese, that are present in the dictionary:</p>
+		<ul>
+			<li>aħmar - male form</li>
+			<li>ħamra - female form</li>
+			<li>ħomor - plural form</li>
+		</ul>
+
+		<h2>Installation</h2>
+		<p>The dictionary and its source code, can be downloaded from my <a href="https://github.com/ragelmalti/Maltese-to-English-Dictionary">Maltese to English Dictionary</a> github repo.</p>
+		<p>There are two ways of installing the dictionary. The first way is in the compressed format. The second is in the raw '.dsl' format.</p>
+		<p>I will be using the Goldendict software, to install this dictionary. Instructions may vary. based on the software used.</p>
+		<h3>Compressed format</h3>
+		<p>The dictionary in the compressed format, is the easiest to install, and works out of the box.</p>
+		<ol>
+			<li>Download the 'malti-english.dsl.dz' file, from my github repo.</li>
+			<li>Create a folder where the dictionary will be placed.</li>
+			<li>Place the dictionary file, in the newly created folder.</li>
+			<li>Open the GoldenDict application, and click on 'edit' in the taskbar, then 'Dictionaries.' You can also press F3 on your keyboard.</li>
+			<li>A menu will pop up. Make sure you are in the 'Sources' section, and 'Files' section. Add the folder in which the Maltese to English dictionary is located, by pressing the 'Add' button. A prompt will come up, allowing you to select the folder.<br> <img style="width:550px" src="../../images/dict/tut1.png"></li>
+			<li>When you see the folder listed, click the 'Rescan Now' button, or press CTRL+F5, to have GoldenDict recognise the dictionary.<br> <img style="width:550px" src="../../images/dict/tut2.png"></li>
+			<li>Click on the 'Dictionaries' section. You shall see the 'Maltese to English dictionary' listed. When you are finished, click on the 'Apply' button <br> <img style="width:550px" src="../../images/dict/tut3.png"></li>
+			<li>That's a wrap! Now you can use the dictionary.</li>
+		</ol>
+		<h3>Raw format</h3>
+		<p>If you wish to make frequent changes to the dictionary, such as adding new words, then it is beneficial to install the dictionary, in the raw 'malti-english.dsl' file format.</p>
+		<p>As outlined in the <a href="https://github.com/ragelmalti/Maltese-to-English-Dictionary/blob/master/README.md">README</a> in the github repo:</p>
+		<blockquote><b>A raw '.dsl' file, MUST be converted to the UTF-16 character encoding format, to be read by dictionary software</b>, such as GoldenDict. Github cannot read UTF-16 encoded files, and therefore, the 'malti-english.dsl' file in this repo, is in the UTF-8 format only.</blockquote>
+		<p>To convert the UTF-8 file to UTF-16, you use the command-line application: <a href="https://www.gnu.org/software/libiconv/">GNU iconv</a>. It is automatically available on most Linux distributions, with GNU core utils. There is also a <a href="http://gnuwin32.sourceforge.net/packages/libiconv.htm">Windows version</a> available to download.</p>
+		<p>To convert the raw '.dsl' file, in the UTF-8 format to UTF-16, simply run the command:</p>
+		<code>iconv -f utf-8 -t utf-16 -o malti-english-UTF-16.dsl malti-english.dsl</code>
+		<p>And you're done!</p>
+		<p>All special Maltese characters: ġ,ż,ħ,ċ, that occur in Maltese words, will now all be correctly displayed by the software.</p>
+		<p>Now you can use the instructions in the 'Compressed Format' section, to install the raw file, as you would the compressed one.</p>
+		<h3>I am stuck, or found an issue, what should I do?</h3>
+		<p>If you are stuck and need help, feel free to contact us via email at: <a href="mailto:malti-archipelago-info@protonmail.com">malti-archipelago-info@protonmail.com</a></p>
+		<p>You can also create an issue on the <a href="https://github.com/ragelmalti/Maltese-to-English-Dictionary/issues/new">dictionary's github repo</a>.</p>
+		<h2>Resources</h2>
+		<p>Below are resources I used, to help me understand the DSL format. You can use these, to make edits and changes to my dictionary, or create your own.</p>
+		<ul>
+			<li><a href="http://lingvo.helpmax.net/en/troubleshooting/dsl-compiler/">DSL Compiler guide</a> - explains how the format works, along with an explanation of its syntax.</li>
+			<li><a href="https://github.com/Tvangeste/SampleDSL">Sample DSL</a> - A github repo, containing an example DSL file.</li>
+			<li><a href="https://github.com/dohliam/dsl-tools">DSL Tools</a> - A github repo, containing a script to compress a raw '.dsl' file.</li>
+			<li><a href="https://github.com/open-dsl-dict/ipa-dict-dsl">IPA Dictionaries in DSL Format</a> - A github repo, containing valuable information on the DSL format.</li>
+		</ul>
+		</div>
+		</main>
+	</body>
+</html>
