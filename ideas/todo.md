@@ -2,3 +2,4 @@
 - Investigate alternative body fonts.
 - Responsive web design, looks good on mobile.
 - Add more meta tags - For SEO
+- Make Maltese keyboard article 
